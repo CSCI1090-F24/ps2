@@ -16,7 +16,7 @@ As with PS1, you will be accessing and submitting this problem set using GitHub 
 
 This respository is nearly empty. That's because you will be creating Python programs yourself, putting them (or creating them) in this directory, and pushing and committing them to GitHub.
 
-**After you have committed and pushed all your work**, this is what my your repo will look like on GitHub in your browser:
+**After you have committed and pushed all your work**, this is what  your repo will look like on GitHub in your browser (changing your name for my name, etc.):
 
 <img src="img/myrepo.png" width="500">
 
@@ -29,8 +29,8 @@ This respository is nearly empty. That's because you will be creating Python pro
 4. `ps2-part4.py` (Part 4)
 
 ### Important Guidelines
-* Your problem set must be submitted with GitHub. If you are struggling to use GitHub, the TAs can help!
-* You can confirm that you submitted correctly by looking at your repo on GitHub in your browser.
+* Your problem set must be submitted with GitHub. If you are struggling to use GitHub, the TAs and I can help!
+* You can confirm that you submitted correctly by looking at your repo on GitHub in your browser. Log in at github.com, and select Repositories from the drop-down menu in the upper left corner.. 
 * You do not need to do error checking. You can assume the user will always enter the kind of input you ask for.
 * Comments are not required yet, but they are strongly encouraged so that we can give you partial credit.
 * Points will be deducted if your output does not match the required format.

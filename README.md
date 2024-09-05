@@ -1,5 +1,5 @@
 # Problem Set 2
-### Due Monday, January 29, 2024, at 11:59pm EST
+### Due Monday, September 9, at 11:59pm EST
 
 
 ### Accessing and submitting the problem set
@@ -8,11 +8,11 @@ As with PS1, you will be accessing and submitting this problem set using GitHub 
 
 1. Accept the invitation you found on Canvas in Problem Set 2 (which you have already done if you are here).
 
-2. [Read PS1 Part 4 to review how to clone a problem set repository using GitHub Desktop and how to work on it locally.](https://github.com/CSCI1090-S24/ps1/blob/main/README.md#part-4-clone-your-copy-of-the-repository-to-your-own-machine) **As described in PS1, you need to remember where you cloned your repo to on your own machine!**
+2. [Read PS1 Part 4 to review how to clone a problem set repository using GitHub Desktop and how to work on it locally.](https://github.com/CSCI1090-F24/ps1/blob/main/README.md#part-4-clone-your-copy-of-the-repository-to-your-own-machine) **As described in PS1, you need to remember where you cloned your repo to on your own machine!**
 
 3. Edit the files on your computer in this repository as described in the sections below.
 
-4. [Reead PS1 Part 9 to review how to submit your work using GitHub Desktop from your local machine up to GitHub on the internet.](https://github.com/CSCI1090-S24/ps1/blob/main/README.md#part-9-commit-your-work-to-github-classroom-using-the-github-desktop-app). Remember that you can commit and push your work as many times as you like. I recommend doing it often so that you have a backup of your work in case your computer breaks.
+4. [Reead PS1 Part 9 to review how to submit your work using GitHub Desktop from your local machine up to GitHub on the internet.](https://github.com/CSCI1090-F24/ps1/blob/main/README.md#part-9-commit-your-work-to-github-classroom-using-the-github-desktop-app). Remember that you can commit and push your work as many times as you like. I recommend doing it often so that you have a backup of your work in case your computer breaks.
 
 This respository is nearly empty. That's because you will be creating Python programs yourself, putting them (or creating them) in this directory, and pushing and committing them to GitHub.
 
@@ -168,7 +168,7 @@ The recidivism risk score is -1
 
 ---
 
-## Deadline: Monday, January 29, 2024, at 11:59pm EST
+## Deadline: Monday, September 9, 2024, at 11:59pm EST
 
 ## Deliverables
 

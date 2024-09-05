@@ -1,5 +1,5 @@
 # Problem Set 2
-### Due Monday, September 9, at 11:59pm EST
+### Due Monday, September 9, at 11:59pm EDT (Boston time)
 
 
 ### Accessing and submitting the problem set
@@ -168,7 +168,7 @@ The recidivism risk score is -1
 
 ---
 
-## Deadline: Monday, September 9, 2024, at 11:59pm EST
+## Deadline: Monday, September 9, 2024, at 11:59pm EDT (Boston time)
 
 ## Deliverables
 
